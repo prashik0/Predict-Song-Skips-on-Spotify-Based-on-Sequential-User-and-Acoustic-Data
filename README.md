@@ -50,14 +50,14 @@ Model Testing, Validation & Results
 
 I had tried different models and selected the best on basis of accuracy. Also apply cross validation procedure for evaluating the wellness of model performance against the real data and develop an appropriate model accordingly.
 
-1. Gradient Boosted Trees
-    Accuracy on train set = 0.92, Accuracy on test set = 0.90
+1. Gradient Boosted Trees                                                                                        
+   Accuracy on train set = 0.92, Accuracy on test set = 0.90
 
-2. LSTM, Bi-LSTM
-    Accuracy on test set = 0.90
+2. LSTM, Bi-LSTM                                                                                              
+   Accuracy on test set = 0.90
 
-3. Logistic Regression
-    Accuracy on train set = 0.91, Accuracy on test set = 0.90
+3. Logistic Regression                                                                                                           
+   Accuracy on train set = 0.91, Accuracy on test set = 0.90
 
 Deployment
 
