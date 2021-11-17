@@ -1,9 +1,5 @@
 # Predict-Song-Skips-on-Spotify-Based-on-Sequential-User-and-Acoustic-Data
 
-Using NLP Techniques 
-to Predict Song Skips on Spotify 
-Based on Sequential User and Acoustic Data
-
 Overview
 
 Machine learning has long been leveraged to build recommender systems to recommend music. But there has not been much research done on how a user interacts with music sequentially, throughout one listening session.
