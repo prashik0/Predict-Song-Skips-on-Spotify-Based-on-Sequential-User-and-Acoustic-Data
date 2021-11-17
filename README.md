@@ -42,21 +42,21 @@ Model Building & Training
 
 Since we were dealing with sequential data I had used following algorithms for model building and training.
 
-Gradient Boosted Trees
-LSTM, Bi-LSTM
-Logistic Regression
+1. Gradient Boosted Trees,                                                                                             
+2. LSTM, Bi-LSTM 
+3. Logistic Regression
  
 Model Testing, Validation & Results
 
 I had tried different models and selected the best on basis of accuracy. Also apply cross validation procedure for evaluating the wellness of model performance against the real data and develop an appropriate model accordingly.
 
-Gradient Boosted Trees
+1. Gradient Boosted Trees
     Accuracy on train set = 0.92, Accuracy on test set = 0.90
 
-LSTM, Bi-LSTM
+2. LSTM, Bi-LSTM
     Accuracy on test set = 0.90
 
-Logistic Regression
+3. Logistic Regression
     Accuracy on train set = 0.91, Accuracy on test set = 0.90
 
 Deployment
